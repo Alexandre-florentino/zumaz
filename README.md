@@ -4,7 +4,7 @@ Tecnologias Utilizadas
 
 - HTML5
 - CSS3
-- JavaScrip
+- JavaScript
 
 
 ## Sobre o Design
